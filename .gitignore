@@ -1,4 +1,3 @@
-node_modules
 # Logs
 logs
 *.log
@@ -36,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# mock db file
+db.json
+
+# dist folder
+dist
